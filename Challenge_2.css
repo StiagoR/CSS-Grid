@@ -1,0 +1,28 @@
+
+.container{
+    border: 3px solid pink;
+    display:grid;
+    grid-template-rows: 100px 100px;
+    grid-template-columns: 100px 100px;
+    grid-auto-flow: column;
+    gap: 20px;
+    place-content: center;
+    place-items: end;
+    height: 600px;
+    background-color:#3a630d;
+}
+.item {
+    display: grid;
+    grid-auto-rows: 100px;
+    grid-auto-columns: 100px;
+    place-items: end;
+    background-color: #aad800;
+}
+.item p{
+    border: 0.5px dashed black; 
+    width: 20px;
+    height: 35px;
+    background-color: #8bb30a;
+    margin: 0;
+    font-size: 2rem;
+}

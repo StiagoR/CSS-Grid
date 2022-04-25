@@ -9,3 +9,5 @@
 
 ![](https://github.com/StiagoR/CSS-Grid/blob/master/Images/challengeNo2.png)
 
+# Challange No. 3: 
+-  Assemble the grid from the image.

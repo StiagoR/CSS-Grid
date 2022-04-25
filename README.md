@@ -11,3 +11,6 @@
 
 # Challange No. 3: 
 -  Assemble the grid from the image.
+
+![](https://github.com/StiagoR/CSS-Grid/blob/master/Images/challengeNo3.png)
+

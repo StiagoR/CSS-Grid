@@ -17,3 +17,5 @@
 # PROJECT
 
 - Using all the grid properties make the following webside fully responsive.  
+![](https://github.com/StiagoR/CSS-Grid/blob/master/Images/ProJect.png)
+
